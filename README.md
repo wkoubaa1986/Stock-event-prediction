@@ -1,4 +1,4 @@
-# msc-data-science-project-2020_21---files-wkoubaa1986
+# Stock event predition
 Due to the size limitation of 25MB per file I wasn't able to put all the collected database and intermediate results.
 
 I put the test database of the scraped news from Reuters as example. the tickerlist used to generate the database is provided.
